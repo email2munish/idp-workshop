@@ -48,4 +48,4 @@ spec:
 #    - petstore
 #  system: yournamehere-system
   dependsOn:
-#    - component:default/munishkumar-service
+     - component:default/munishkumar-service
